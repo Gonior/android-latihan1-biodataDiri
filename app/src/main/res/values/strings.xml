@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Biodata Diri</string>
+    <string name="str_nama">Nama</string>
+    <string name="str_nim">NIM</string>
+    <string name="str_kelas">Kelas</string>
+    <string name="str_jk">Jenis Kelamin</string>
+    <string name="str_ttl">Tempat Tanggal Lahir</string>
+    <string name="str_addrs">Alamat Rumah</string>
+    <string name="str_blood">Golongan Darah</string>
+    <string name="str_food">Makanan Kesukaan</string>
+    <string name="str_drink">Minuman Kesukaan</string>
+    <string name="str_hobi">Hobi</string>
+    <string name="str_lagu">Lagu Favorit</string>
+    <string name="str_film">Film Favorit</string>
+    <string name="str_job">Pekerjaan yang diinginkan setelah kuliah</string>
+
+</resources>
