@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         tvGolDar.text = b.gol_darah
         tvFood.text = b.food
         tvDrink.text = b.drink
-        tvHobi.text = b.drink
+        tvHobi.text = b.hobi
         tvSong.text = b.song
         tvFilm.text = b.film
         tvJob.text = b.wish_job
